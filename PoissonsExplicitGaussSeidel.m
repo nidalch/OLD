@@ -1,2 +1,3 @@
 % Poisson's Equation 
-%Nidal Kiwai Chaban
+% Nidal Kiwai Chaban
+% Gauss-Seidel Method
